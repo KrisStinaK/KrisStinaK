@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет! Меня зовут Кристина 👋
 
-<!--
-**KrisStinaK/KrisStinaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой профиль GitHub. Я увлекаюсь разработкой и постоянно учусь новому.
 
-Here are some ideas to get you started:
+## О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Моя роль: Frontend/Backend/Full-stack/DevOps/И т.д.
+- 🎯 Основные интересы: Python, Django и т.д.
+- 🌍 Готова работать над: open-source, фриланс, командные проекты
+- 📫 Как со мной связаться: email@example.com|Telegram|VK
+
+## Технологии
+
+- **Языки:** Python, PHP
+- **Frontend:** HTML/CSS
+- **Backend:** FastAPI, Django, Flask
+- **Базы данных:** PostgreSQL, Redis, MySql
+- **Инструменты:** Git, Docker, CI/CD
+- **Testing:** PyTest
+- **Другое:** WebSocket
+
+## Контрибьюции
+
+Я открыт(а) к контрибьюциям в открытые проекты и новым совместным инициативам.
+
+## Контакты
+
+- Email: krasilnikova13570@gmail.com
+- Telegram: @Kristja01
+
+Спасибо за визит! ✨
