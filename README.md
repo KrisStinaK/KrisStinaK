@@ -4,8 +4,8 @@
 
 ## О себе
 
-- 💼 Моя роль: Frontend/Backend/Full-stack/DevOps/И т.д.
-- 🎯 Основные интересы: Python, Django и т.д.
+- 💼 Моя роль: Backend,Full-stack
+- 🎯 Основные интересы: Python, Django
 - 🌍 Готова работать над: open-source, фриланс, командные проекты
 - 📫 Как со мной связаться: email@example.com|Telegram|VK
 
@@ -27,5 +27,6 @@
 
 - Email: krasilnikova13570@gmail.com
 - Telegram: @Kristja01
+- VK: https://vk.com/crazy_schiza
 
 Спасибо за визит! ✨
