@@ -4,7 +4,7 @@
 
 ## О себе
 
-- 💼 Моя роль: Backend,Full-stack
+- 💼 Моя роль: Backend
 - 🎯 Основные интересы: Python, Django
 - 🌍 Готова работать над: open-source, фриланс, командные проекты
 - 📫 Как со мной связаться: email@example.com|Telegram|VK
