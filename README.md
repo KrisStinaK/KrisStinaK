@@ -11,9 +11,9 @@
 
 ## Технологии
 
-- **Языки:** Python, PHP
+- **Языки:** Python
 - **Frontend:** HTML/CSS
-- **Backend:** FastAPI, Django, Flask
+- **Backend:** Django
 - **Базы данных:** PostgreSQL, Redis, MySql
 - **Инструменты:** Git, Docker, CI/CD
 - **Testing:** PyTest
